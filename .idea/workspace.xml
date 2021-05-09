@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e028a6c-7829-480e-b544-73ed78ba13e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/offer55_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code02_02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code05/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code1464/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code1528/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code1534/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code1656/OrderedStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code17/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code1725/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code1748/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code561/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code617/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code804/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/code104/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/code1351/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer22/Solution.java" afterDir="false" />
+    <list default="true" id="0e028a6c-7829-480e-b544-73ed78ba13e8" name="Default Changelist" comment="coding">
+      <change afterPath="$PROJECT_DIR$/src/main/java/code1309/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code590/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code700/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code728/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code1534/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code1534/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/code1656/OrderedStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/code1656/OrderedStream.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,57 +21,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code02_02/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code1656/OrderedStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="42" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code1528/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer22/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code1725/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/code/offer55_1/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
+            <state relative-caret-position="100">
               <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
@@ -90,17 +32,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/code617/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="475">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code1534/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code590/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code700/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code1309/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code1534/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code728/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="453">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -109,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/code04_02/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+              <caret line="15" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -117,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/SortedMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="2225">
               <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
             </state>
           </provider>
@@ -178,10 +174,14 @@
         <option value="$PROJECT_DIR$/src/main/java/code/offer55_1/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/code617/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/code1534/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code590/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code700/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code1309/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code728/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="792" />
@@ -192,7 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,26 +218,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="/usr/local/android-sdk-macosx" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617202399690" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617897822664" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -257,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrderedStream">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -278,13 +270,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.code1351.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code1309.Solution" />
       <module name="leetcode-sample" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.code1351.*" />
+          <option name="PATTERN" value="code1309.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.OrderedStream" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -386,6 +378,7 @@
       <updated>1615033201994</updated>
       <workItem from="1615033203794" duration="13497000" />
       <workItem from="1616851930593" duration="14348000" />
+      <workItem from="1617894820445" duration="3274000" />
     </task>
     <task id="LOCAL-00001" summary="coding">
       <created>1615123252367</created>
@@ -398,13 +391,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27845000" />
+    <option name="totallyTimeSpent" value="31119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17811158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -421,9 +414,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.45903614" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.45857143" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32857144" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -530,12 +523,21 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/code1309/Solution.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="index[i]" />
         <watch expression="Integer.bitCount(9)" />
+        <watch expression="map.get(substring)" />
+        <watch expression="map.get(i+&quot;&quot;)" />
+        <watch expression="map.get(i+&quot;&quot;)" />
       </configuration>
     </watches-manager>
   </component>
@@ -672,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="2239" column="29" selection-start-line="2239" selection-start-column="29" selection-end-line="2239" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code05/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -759,17 +754,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/SortedMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/code02_02/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        <state relative-caret-position="100">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code1656/OrderedStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="475">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -785,50 +780,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer22/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="325">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code1725/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/code04_02/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code02_02/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code/offer55_1/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="100">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code617/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="475">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/code04_02/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code1534/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code590/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code700/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code1309/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code728/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
