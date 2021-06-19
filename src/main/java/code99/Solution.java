@@ -1,5 +1,8 @@
 package code99;
 
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 public class Solution {
     public class TreeNode {
         int val;
@@ -20,42 +23,53 @@ public class Solution {
         }
     }
 
+
     public void recoverTree(TreeNode root) {
-        if (root == null) {
-            return;
-        }
-        if (root.right == null && root.left == null) {
-            return;
+        TreeNode error1 = null;
+        TreeNode error2 = null;
+
+        Deque<TreeNode> queue = new ArrayDeque<>();
+        TreeNode p = root;
+        TreeNode pre = null;
+        while (p != null || !queue.isEmpty()) {
+            if (p != null) {
+                queue.addLast(p);
+                p = p.left;
+            } else {
+                p = queue.pop();
+                if (pre != null && pre.val >= p.val) {
+                    if (error1 == null) {
+                        error1 = pre;
+                        error2 = root;
+                    } else {
+                        error2 = root;
+                    }
+                }
+                pre = p;
+                p = p.right;
+            }
         }
 
-        if (root.left != null && root.right == null) {
-            if (root.val < root.left.val) {
-                int val = root.val;
-                root.val = root.left.val;
-                root.left.val = val;
-            }
-            recoverTree(root.left);
-        } else if (root.left == null) {
-            if (root.val > root.right.val) {
-                int val = root.val;
-                root.val = root.right.val;
-                root.right.val = val;
-            }
-            recoverTree(root.right);
-        } else {
-            int left = root.left.val;
-            int right = root.right.val;
-            int val = root.val;
-            if (left > val) {
-                root.left.val = val;
-                root.val = left;
-            }
-            if (right < val) {
-                root.right.val = val;
-                root.val = right;
-            }
-            recoverTree(root.left);
-            recoverTree(root.right);
+        int t = error1.val;
+        error1.val = error2.val;
+        error2.val = t;
+    }
+
+    public TreeNode createTree(int low, int high, Integer[] nums) {
+        if (low > high) {
+            return null;
         }
+        int mid = low + (high - low + 1) / 2;
+        if (nums[mid] == null) {
+            return null;
+        }
+        TreeNode treeNode = new TreeNode(nums[mid]);
+        treeNode.left = createTree(low, mid - 1, nums);
+        treeNode.right = createTree(mid + 1, high, nums);
+        return treeNode;
+    }
+
+    public static void main(String[] args) {
+        Solution solution= new Solution();//solution.createTree(0,)
     }
 }
