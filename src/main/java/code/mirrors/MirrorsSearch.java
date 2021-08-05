@@ -38,6 +38,14 @@ public class MirrorsSearch {
                     cur = cur.right;
                 }
             }
+            cur = cur.left;
         }
+
+    }
+
+    public static void main(String[] args) {
+        MirrorsSearch search = new MirrorsSearch();
+        String[] nums = new String[]{"1","2","3","4","5","6","7","#","#","8","#","#","#","#","#"};
+
     }
 }
