@@ -1,208 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="41687be6-9b43-40f1-8b4a-6824e7e4281b" name="Default Changelist" comment="">
-<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/main/java/code155/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code20/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code232/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code48/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code530/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code739/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code796/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvmcode/HeapOutOfMemeryError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvmcode/JavaVMStackOverFlowError.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.a2s.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.domIn.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.domOut.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.i2sv2.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.idx.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.inbound.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.o2c.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.o2hprof.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.o2ret.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.outbound.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551.threads" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_pid26551_Leak_Suspects.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/code/mirrors/MirrorsSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/mirrors/MirrorsSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code/offer55_1/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code/offer55_1/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code101/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code101/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code104/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code104/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code105/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code105/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code108/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code108/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code110/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code110/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1110/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1110/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code122/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1252/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1309/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1323/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code135/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code142/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code142/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code144/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code144/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code148/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code148/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code148/Solution2$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code148/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1528/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1534/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code154/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code155/MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code160/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code160/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code167/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1725/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code1837/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code19/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code19/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code198/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code20/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code206/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code206/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code208/Trie$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code208/Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code21/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code21/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code221/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code232/MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code234/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code234/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code235/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code235/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code24/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code24/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code241/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code254/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code279/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code322/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code328/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code328/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code404/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code404/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code413/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code417/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code437/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code437/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code452/Solution$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code452/Solution$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code452/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code455/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code474/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code48/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code51/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code513/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code513/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code530/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code530/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code538/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code538/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code542/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code543/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code543/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code547/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code55/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code55/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code572/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code572/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code590/Solution$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code590/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code605/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code617/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code617/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code633/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code637/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code637/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code64/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code669/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code669/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code680/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code695/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code70/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code700/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code700/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code728/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code739/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code76/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code763/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code77/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code79/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code81/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code83/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code83/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code88/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code893/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code91/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code99/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code99/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code/offer47/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code/offer47/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code/y/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code1229/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code1436/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code1534/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code1704/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code1768/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code226/Solution$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code226/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/code657/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvmcode/HeapOutOfMemeryError$OOMObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvmcode/HeapOutOfMemeryError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvmcode/JavaVMStackOverFlowError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/offer22/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/offer22/Solution.class" beforeDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/mirrors/MirrorsSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/offer07/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/offer09/CQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/offer33/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code1008/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code102/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code1028/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code106/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code106/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code107/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code111/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code128/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code145/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code145/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code149/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code173/BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code218/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code222/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code23/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code239/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code303/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code304/NumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code331/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code332/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code560/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code889/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code94/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/itcode1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/code105/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code105/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code105/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/code105/Solution.class" afterDir="false" />
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="ComposerSettings">
-    <execution />
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode_sample$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1623332272118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -225,13 +39,6 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1pScPvRlTUtif3PTBnr0L6BNInq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
@@ -240,8 +47,6 @@
       <find>create</find>
       <find>.addLast(</find>
       <find>createTr</find>
-      <find>ListNode</find>
-      <find>initialCapacity</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -253,189 +58,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/code413/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code64/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code542/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code221/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code279/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code91/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code322/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code474/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code55/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code55/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code241/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code206/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code21/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code24/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code160/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code234/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code83/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code328/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code19/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code148/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code148/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code104/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code110/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code543/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code437/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code101/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code1110/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code105/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code144/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code99/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code637/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code669/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code208/Trie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code572/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code404/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code513/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code538/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code235/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code530/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code48/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvmcode/HeapOutOfMemeryError.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvmcode/JavaVMStackOverFlowError.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code232/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code232/MyQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code155/MinStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code20/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code739/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code23/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code239/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code218/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/code560/Solution.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="24" />
     <option name="width" value="1440" />
-    <option name="height" value="788" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="1pScPvRlTUtif3PTBnr0L6BNInq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="code218" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jvmcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624638591253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624200653656" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -446,19 +88,28 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.MirrorsSearch">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="HeapOutOfMemeryError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvmcode.HeapOutOfMemeryError" />
-=======
-  <component name="RunManager" selected="Application.Solution (4)">
-    <configuration name="BSTIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code173.BSTIterator" />
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
       <module name="leetcode-sample" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code173.*" />
+          <option name="PATTERN" value="jvmcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaVMStackOverFlowError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvmcode.JavaVMStackOverFlowError" />
+      <module name="leetcode-sample" />
+      <option name="VM_PARAMETERS" value="-Xss160k" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvmcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -467,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code222.Solution" />
+      <option name="MAIN_CLASS_NAME" value="code796.Solution" />
       <module name="leetcode-sample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code222.*" />
+          <option name="PATTERN" value="code796.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -479,34 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="MirrorsSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.mirrors.MirrorsSearch" />
-      <module name="leetcode-sample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="code.mirrors.*" />
-=======
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.offer07.Solution" />
+      <option name="MAIN_CLASS_NAME" value="code48.Solution" />
       <module name="leetcode-sample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.offer07.*" />
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.offer33.Solution" />
-      <module name="leetcode-sample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="code.offer33.*" />
+          <option name="PATTERN" value="code48.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -515,11 +144,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code331.Solution" />
+      <option name="MAIN_CLASS_NAME" value="code739.Solution" />
       <module name="leetcode-sample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code331.*" />
+          <option name="PATTERN" value="code739.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -527,47 +156,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-<<<<<<< HEAD
       <item itemvalue="Application.HeapOutOfMemeryError" />
-=======
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
       <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.BSTIterator" />
+      <item itemvalue="Application.JavaVMStackOverFlowError" />
       <item itemvalue="Application.Solution" />
-<<<<<<< HEAD
-      <item itemvalue="Application.MirrorsSearch" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MirrorsSearch" />
-=======
       <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (1)" />
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.BSTIterator" />
+        <item itemvalue="Application.JavaVMStackOverFlowError" />
+        <item itemvalue="Application.HeapOutOfMemeryError" />
         <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -592,16 +197,7 @@
       <workItem from="1622250219992" duration="27034000" />
       <workItem from="1622959071972" duration="2825000" />
       <workItem from="1623078173315" duration="65085000" />
-<<<<<<< HEAD
       <workItem from="1624199370437" duration="954000" />
-      <workItem from="1628143440360" duration="236000" />
-      <workItem from="1628143727754" duration="367000" />
-=======
-      <workItem from="1624199370437" duration="8042000" />
-      <workItem from="1624890691676" duration="6570000" />
-      <workItem from="1625060658180" duration="2650000" />
-      <workItem from="1625494833411" duration="31243000" />
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
     </task>
     <task id="LOCAL-00001" summary="code">
       <created>1616736837087</created>
@@ -669,12 +265,6 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
-<<<<<<< HEAD
-=======
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135428000" />
-  </component>
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -684,79 +274,8 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-<<<<<<< HEAD
-=======
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21459228" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26626506" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4373494" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49928468" weight="0.32891566" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4985694" weight="0.51686746" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143063" side_tool="true" weight="0.34330484" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49928468" weight="0.32771084" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4989429" weight="0.24964234" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4989429" weight="0.3297568" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5010571" side_tool="true" weight="0.3297568" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19170243" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2987952" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.44578314" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49928468" weight="0.32891566" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" weight="0.3433735" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49928468" weight="0.32771084" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4989429" weight="0.24964234" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4989429" weight="0.3297568" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5010571" side_tool="true" weight="0.3297568" />
-    </layout-to-restore>
-  </component>
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -765,64 +284,61 @@
     <MESSAGE value="code" />
     <option name="LAST_COMMIT_MESSAGE" value="code" />
   </component>
-<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="283" y="51" key="CommitChangelistDialog2" timestamp="1619575231705">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="283" y="51" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1619575231705" />
-    <state width="1396" height="335" key="GridCell.Tab.0.bottom" timestamp="1628143780892">
+    <state width="1396" height="377" key="GridCell.Tab.0.bottom" timestamp="1628168030317">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="406" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1625571965200" />
-    <state width="1396" height="335" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1628143780892" />
-    <state width="1396" height="335" key="GridCell.Tab.0.center" timestamp="1628143780889">
+    <state width="1396" height="359" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1628167865373" />
+    <state width="1396" height="377" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1628168030317" />
+    <state width="1396" height="377" key="GridCell.Tab.0.center" timestamp="1628168030311">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="406" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1625571965196" />
-    <state width="1396" height="335" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1628143780889" />
-    <state width="1396" height="335" key="GridCell.Tab.0.left" timestamp="1628143780888">
+    <state width="1396" height="359" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1628167865366" />
+    <state width="1396" height="377" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1628168030311" />
+    <state width="1396" height="377" key="GridCell.Tab.0.left" timestamp="1628168030309">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="406" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1625571965193" />
-    <state width="1396" height="335" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1628143780888" />
-    <state width="1396" height="335" key="GridCell.Tab.0.right" timestamp="1628143780890">
+    <state width="1396" height="359" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1628167865361" />
+    <state width="1396" height="377" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1628168030309" />
+    <state width="1396" height="377" key="GridCell.Tab.0.right" timestamp="1628168030313">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="406" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1625571965198" />
-    <state width="1396" height="335" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1628143780890" />
-    <state width="1398" height="406" key="GridCell.Tab.1.bottom" timestamp="1625571965206">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1396" height="359" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1628167865370" />
+    <state width="1396" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.23.1440.877" timestamp="1628164211965" />
+    <state width="1396" height="377" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1628168030313" />
+    <state width="1396" height="377" key="GridCell.Tab.1.bottom" timestamp="1628168030578">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="406" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1625571965206" />
-    <state width="1398" height="406" key="GridCell.Tab.1.center" timestamp="1625571965203">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1396" height="377" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1628167865322" />
+    <state width="1396" height="377" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1628168030578" />
+    <state width="1396" height="377" key="GridCell.Tab.1.center" timestamp="1628168030576">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="406" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1625571965203" />
-    <state width="1398" height="406" key="GridCell.Tab.1.left" timestamp="1625571965201">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1396" height="377" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1628167865314" />
+    <state width="1396" height="377" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1628168030576" />
+    <state width="1396" height="377" key="GridCell.Tab.1.left" timestamp="1628168030575">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="406" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1625571965201" />
-    <state width="1398" height="406" key="GridCell.Tab.1.right" timestamp="1625571965204">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1396" height="377" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1628167865306" />
+    <state width="1396" height="377" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1628168030575" />
+    <state width="1396" height="377" key="GridCell.Tab.1.right" timestamp="1628168030577">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="406" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1625571965204" />
+    <state width="1396" height="377" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1628167865318" />
+    <state width="1396" height="377" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1628168030577" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1619575279328">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619575279328" />
-    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1625570425819">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1625570425819" />
   </component>
-=======
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/main/java/code669/Solution.java</url>
           <line>24</line>
           <option name="timeStamp" value="117" />
@@ -901,81 +417,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/code739/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="141" />
-=======
-          <url>file://$PROJECT_DIR$/src/main/java/code889/Solution.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code/offer07/Solution.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="179" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code173/BSTIterator.java</url>
-          <line>84</line>
-          <option name="timeStamp" value="180" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code173/BSTIterator.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="181" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code173/BSTIterator.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="182" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code173/BSTIterator.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="183" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code331/Solution.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="184" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code331/Solution.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="186" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code331/Solution.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="190" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code331/Solution.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="192" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code222/Solution.java</url>
-          <line>79</line>
-          <option name="timeStamp" value="194" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code222/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/code796/Solution.java</url>
           <line>29</line>
-          <option name="timeStamp" value="195" />
+          <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code/offer33/Solution.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="196" />
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code/mirrors/MirrorsSearch.java</url>
-          <line>84</line>
-          <option name="timeStamp" value="142" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/code/mirrors/MirrorsSearch.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="143" />
+          <url>file://$PROJECT_DIR$/src/main/java/code796/Solution.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -988,31 +439,13 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-<<<<<<< HEAD
-        <watch expression="preorder[idx + 1]" />
-        <watch expression="preorder[idx + 2]" />
-        <watch expression="col - curi - 2" />
-        <watch expression="temperatures[stack.peekLast()]" />
-        <watch expression="stack.peekLast()" />
-        <watch expression="tree.left" />
-=======
-        <watch expression="bstIterator" />
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
+        <watch expression="nexts" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode_sample$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1625929348453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>code1028.*</FILTER>
-    </SUITE>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -1059,493 +492,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-<<<<<<< HEAD
-=======
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/code241/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code206/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code21/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code24/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code160/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code19/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code328/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-467">
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code83/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code234/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code148/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/code104/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code104/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code148/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code110/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code543/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code101/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="22" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code437/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="575" column="19" selection-start-line="575" selection-start-column="19" selection-end-line="575" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code1110/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code105/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code99/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code208/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code572/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code637/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code513/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code404/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code538/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code235/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="21" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code144/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="25" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/code04_02/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code530/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code48/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvmcode/HeapOutOfMemeryError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvmcode/JavaVMStackOverFlowError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code232/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code155/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="40" column="5" selection-start-line="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1850">
-          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="340" column="6" selection-start-line="340" selection-start-column="6" selection-end-line="340" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code739/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code20/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code669/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code23/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code218/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="64" column="7" selection-start-line="9" selection-start-column="3" selection-end-line="64" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26525">
-          <caret line="1087" column="14" selection-start-line="1087" selection-start-column="14" selection-end-line="1087" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code239/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7725">
-          <caret line="337" column="66" selection-start-line="337" selection-start-column="66" selection-end-line="337" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126650">
-          <caret line="5101" column="54" selection-start-line="5101" selection-start-column="54" selection-end-line="5101" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3075">
-          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/code1290/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code560/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
->>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode-sample</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
