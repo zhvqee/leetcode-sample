@@ -1,5 +1,6 @@
 package code.mirrors;
 
+<<<<<<< HEAD
 
 import java.util.ArrayDeque;
 import java.util.Queue;
@@ -7,11 +8,15 @@ import java.util.Queue;
 public class MirrorsSearch {
 
 
+=======
+public class MirrorsSearch {
+>>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
     public static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
 
+<<<<<<< HEAD
         TreeNode(int x) {
             val = x;
         }
@@ -61,15 +66,43 @@ public class MirrorsSearch {
         while (cur != null) {
             TreeNode mostRight = cur.left;
             if (mostRight != null) {
+=======
+        TreeNode() {
+        }
+
+        TreeNode(int val) {
+            this.val = val;
+        }
+
+        TreeNode(int val, TreeNode left, TreeNode right) {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+        }
+    }
+
+    public void search(TreeNode treeNode) {
+        TreeNode cur = treeNode;
+        while (cur != null) {
+            TreeNode mostRight = cur.left;
+            if (mostRight == null) {
+                cur = cur.right;
+            } else {
+>>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
                 while (mostRight.right != null && mostRight.right != cur) {
                     mostRight = mostRight.right;
                 }
                 if (mostRight.right == null) {
                     mostRight.right = cur;
+<<<<<<< HEAD
+=======
+                    cur=cur.left;
+>>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
                 } else {
                     mostRight.right = null;
                     cur = cur.right;
                 }
+<<<<<<< HEAD
             } else {
                 cur = cur.right;
             }
@@ -83,5 +116,9 @@ public class MirrorsSearch {
         String[] nums = new String[]{"1","2","3","4","5","6","7","#","#","8","#","#","#","#","#"};
         TreeNode tree = search.sortedArrayToBST(nums);
         System.out.println(tree);
+=======
+            }
+        }
+>>>>>>> b2ef77a784e1eb634c2f56225e7cad7eb1107cc2
     }
 }

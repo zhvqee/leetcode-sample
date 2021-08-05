@@ -41,6 +41,7 @@ public class Solution {
         }
         TreeNode root = new TreeNode(preorder[preLeft]);
         Integer pIndex = inOrderIndexMap.get(preorder[preLeft]);
+        //pIndex - inLeft  左子树的长度，起始位置为preLeft
         root.left = buildTreeHelper(preorder, inOrderIndexMap, preLeft + 1, pIndex - inLeft + preLeft, inLeft, pIndex - 1);
         root.right = buildTreeHelper(preorder, inOrderIndexMap, pIndex - inLeft + preLeft + 1, preRight, pIndex + 1, inRight);
         return root;
